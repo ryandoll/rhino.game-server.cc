@@ -27,9 +27,6 @@ http://steamcommunity.com/workshop/filedetails/?id=566887000
 Auto Torch
 http://steamcommunity.com/workshop/filedetails/?id=543859212
 
-Admin Command Menu (ACM) V2.6.1
-http://steamcommunity.com/workshop/filedetails/?id=558079412
-
 Perfect Hair Forever
 http://steamcommunity.com/workshop/filedetails/?id=516096294
 
