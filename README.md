@@ -6,7 +6,7 @@
 2. “Aww but they are so cute.” - No killing dinos set on passive.
 3. “Spoils to the victor!” - If you kill someone, you may take one item from their inventory.
 4. “I think this body smells…” - If you kill someone, don't camp their body, let them get their stuff back.
-5. “Dude, where’s my base?” - Don't grief players, dinos, structures.
+5. “Dude, where’s my base?” - No major griefing of players, dinos, structures. Some is expected, to provoke a little fun :-)
 6. “Bridge Troll” - Don't purposefully block caves, drops or resource spawns to spite players.
 7. “I told you so.” - Be cautious when going near a tribe’s base, they might have defenses in place that aren't friendly.
 8. “Knock, knock.” - Full out base raiding should be announced/scheduled to allow defenders the chance to defend. (Remember you are here to have fun.)
