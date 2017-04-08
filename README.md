@@ -63,9 +63,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=554678442
 AllSkins - Chest
 https://steamcommunity.com/sharedfiles/filedetails/?id=813463849
 
-Teleport Pad
-https://steamcommunity.com/sharedfiles/filedetails/?id=760067652
-
 Awesome Teleporters
 http://steamcommunity.com/sharedfiles/filedetails/?id=889745138
 
+Classic Flyers
+http://steamcommunity.com/sharedfiles/filedetails/?id=895711211
